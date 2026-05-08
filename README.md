@@ -5,7 +5,7 @@
 
 ### About This Repository
 
-This repository showcases my **hands-on cybersecurity projects**, home lab experiments, and self-directed learning. Every project includes detailed documentation, tools used, methodologies, and lessons learned — exactly what recruiters and hiring managers look for from junior candidates.
+This repository showcases my **hands-on cybersecurity projects**, home lab experiments, and self-directed learning. Every project includes detailed documentation, tools used, methodologies, and lessons learned 
 
 **Focus areas**: Threat Detection, Incident Response, Network Security, SIEM, Forensics, and Blue Team operations.
 
