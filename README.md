@@ -1,118 +1,61 @@
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/cyber-home-lab)](https://github.com/yourusername/cyber-home-lab)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+# Hi there, I'm Jonathan John Akhamie 👋
+
+**Cybersecurity Analyst | SOC Analyst | GRC Specialist**  
+📍 Wuppertal, Germany | CompTIA Security+ Certified
 
 ---
 
-### About This Repository
+### 👨‍💻 About Me
+Cybersecurity professional with **2+ years** of progressive experience in SOC operations, SIEM monitoring, incident response, vulnerability management, and Governance, Risk & Compliance (GRC) in regulated healthcare environments.
 
-This repository showcases my **hands-on cybersecurity projects**, home lab experiments, and self-directed learning. Every project includes detailed documentation, tools used, methodologies, and lessons learned 
+Proven track record in reducing incident response times, improving threat detection accuracy, and strengthening compliance controls (GDPR).
 
-**Focus areas**: Threat Detection, Incident Response, Network Security, SIEM, Forensics, and Blue Team operations.
-
----
-
-## 📂 Featured Projects
-
-### 1. SIEM Dashboards & Monitoring (Elastic + Wazuh)
-**Status**: Completed
-
-- Built a multi-node Elastic Stack + Wazuh lab on Proxmox
-- Created custom dashboards for Windows/Linux endpoint monitoring
-- Implemented detection rules for common attacks (brute force, ransomware simulation, privilege escalation)
-- Integrated custom Sigma rules and MITRE ATT&CK mapping
-
-**Links**:
-- [Project Documentation](./Projects/SIEM-Elastic-Wazuh/README.md)
-- [Dashboard Screenshots](./Projects/SIEM-Elastic-Wazuh/screenshots/)
-- [Custom Detection Rules](./Projects/SIEM-Elastic-Wazuh/rules/)
-
-**Key Skills Demonstrated**: SIEM administration, log analysis, detection engineering, visualization
+- 🔭 Currently: **Cybersecurity Analyst / SOC Analyst** at Helios Hospital Wuppertal
+- 🌱 Currently learning: Cloud Security (AWS), Threat Hunting, SOAR Automation
+- 💬 Ask me about: SIEM, Incident Response, IAM, Vulnerability Management, GRC
+- 📫 Contact: [akhamiej@gmail.com](mailto:akhamiej@gmail.com)
 
 ---
 
-### 2. Packet Captures & Network Traffic Analysis
-**Status**: Ongoing
+### 🛠️ Skills & Technologies
 
-- Captured and analyzed traffic from simulated attacks (Nmap scans, C2 beacons, data exfiltration, etc.)
-- Used Wireshark, tcpdump, and NetworkMiner for analysis
-- Created write-ups with annotated PCAPs
+**Core Competencies**  
+- SOC Operations (Tier 1 & Tier 2)  
+- SIEM Monitoring & Log Analysis  
+- Incident Detection, Triage & Response  
+- Threat & Vulnerability Management  
+- Endpoint & Network Security  
+- Identity & Access Management (IAM)  
+- GRC, GDPR & Risk Assessment  
 
-**Links**:
-- [PCAP Analysis Write-ups](./Projects/PCAP-Analysis/)
-- [Sample PCAPs](./Projects/PCAP-Analysis/pcaps/) *(password-protected for safety)*
+**Tools**  
+SIEM (Elastic + Wazuh) | EDR | IDS/IPS | pfSense | Suricata | Volatility | Autopsy | OpenVAS | Ansible | Terraform
 
----
-
-### 3. Incident Response & Forensics Labs
-**Status**: Completed
-
-- Simulated ransomware, phishing, and lateral movement incidents
-- Performed full IR workflow: detection → containment → eradication → recovery
-- Memory forensics with Volatility 3
-- Disk forensics with Autopsy and FTK Imager
-- Created professional **Incident Reports**
-
-**Links**:
-- [Incident Response Playbooks](./Projects/Incident-Response/)
-- [Sample Incident Reports](./Projects/Incident-Response/reports/)
-- [Forensics Artifacts](./Projects/Forensics/)
+**Frameworks**  
+MITRE ATT&CK | Cyber Kill Chain | NIST | ISO 27001
 
 ---
 
-### 4. Additional Home Lab Projects
-- **Active Directory Attack & Defense Lab** (using TryHackMe + self-hosted)
-- **Vulnerability Management & Remediation** (OpenVAS + custom scripts)
-- **SOAR Automation Playbooks** (using Shuffle or TheHive + Cortex)
-- **Threat Hunting Exercises** (with custom hypotheses)
+### 🏆 Certifications
+- **CompTIA Security+** — December 2025 (Valid until Dec 2028)
 
 ---
 
-## 🧪 Home Lab Architecture
+### 🚀 Featured Cybersecurity Projects
+- **SIEM Lab (Elastic Stack + Wazuh)** → Multi-node setup with custom detection rules
+- **Incident Response & Forensics Lab** → Full IR simulations + reports
+- **Network Traffic Analysis** → PCAP analysis of simulated attacks
+- **Active Directory Attack & Defense Lab**
+- **Vulnerability Management** → OpenVAS + remediation workflows
 
-![Home Lab Diagram](screenshots/lab-diagram.png)
-
-**Hardware**:
-- Dell R730 / Mini PC cluster + Raspberry Pi
-- 64GB RAM, Proxmox VE hypervisor
-
-**Core Tools**:
-- **SIEM**: Elastic Stack + Wazuh
-- **EDR**: Wazuh + Velociraptor
-- **Network**: pfSense, Suricata, Zeek
-- **Forensics**: Autopsy, Volatility, Remnux
-- **Orchestration**: Ansible, Terraform
+**→ Explore all projects in the pinned repositories below**
 
 ---
 
-## 🎯 What I Learned / Skills Gained
-
-- Deep understanding of the **Cyber Kill Chain** and **MITRE ATT&CK**
-- Practical experience with enterprise security tools
-- Writing clear, professional security documentation
-- Building detection logic and reducing alert fatigue
-- Incident response under time pressure (timed labs)
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonathancybr&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathancybr&layout=compact&theme=radical)
 
 ---
 
-## 📈 Future Projects (Roadmap)
-
-- [ ] Purple Team exercises with Atomic Red Team
-- [ ] Cloud security lab (AWS + native security services)
-- [ ] Malware analysis lab (safe environment)
-- [ ] Threat Intelligence platform integration
-
----
-
-## 📫 Connect With Me
-
-- LinkedIwww.linkedin.com/in/jonathan-j-akhamie-1139b53a2
-- TryHackMe / HackTheBox: `@yourusername`
-- Email: akhamiej@gmail.com
-
----
-
-**"Documenting my journey from beginner to job-ready security professional."**
-
----
-
-**Last Updated**: May 2026
+**"Building practical Blue Team skills through hands-on labs and real-world application."**
